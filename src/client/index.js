@@ -1,1 +1,37 @@
 import "./styles/main.scss";
+
+// import images manually
+// import "./img/back.jpg";
+// import "./img/favicon.png";
+// import "./img/gal-1.jpeg";
+// import "./img/gal-2.jpeg";
+// import "./img/gal-3.jpeg";
+// import "./img/gal-4.jpeg";
+// import "./img/gal-5.jpeg";
+// import "./img/gal-6.jpeg";
+// import "./img/gal-7.jpeg";
+// import "./img/gal-8.jpeg";
+// import "./img/gal-9.jpeg";
+// import "./img/gal-10.jpeg";
+// import "./img/gal-11.jpeg";
+// import "./img/gal-12.jpeg";
+// import "./img/gal-13.jpeg";
+// import "./img/gal-14.jpeg";
+// import "./img/hero.jpeg";
+// import "./img/house-1.jpeg";
+// import "./img/house-2.jpeg";
+// import "./img/house-3.jpeg";
+// import "./img/house-4.jpeg";
+// import "./img/house-5.jpeg";
+// import "./img/house-6.jpeg";
+// import "./img/logo-bbc.png";
+// import "./img/logo-bi.png";
+// import "./img/logo-forbes.png";
+// import "./img/logo-techcrunch.png";
+// import "./img/logo.png";
+// import "./img/realtor-1.jpeg";
+// import "./img/realtor-2.jpeg";
+// import "./img/realtor-3.jpeg";
+import "./img/sprite.svg";
+// import "./img/story-1.jpeg";
+// import "./img/story-2.jpeg";

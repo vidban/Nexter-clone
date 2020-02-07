@@ -17,6 +17,10 @@ module.exports = {
           // Compiles Sass to CSS
           "sass-loader"
         ]
+      },
+      {
+        test: /\.jpg$|\.jpeg$\.ico$|\.gif$|\.png$|\.svg$|\.woff$|\.ttf$|\.wav$|\.mp3$|\.mp4$|\.webm$/,
+        loader: "file-loader?name=[name].[ext]" // <-- retain original file name
       }
     ]
   },
