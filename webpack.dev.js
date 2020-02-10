@@ -20,7 +20,7 @@ module.exports = {
         ]
       },
       {
-        test: /\.jpg$|\.jpeg$\.ico$|\.gif$|\.png$|\.svg$|\.woff$|\.ttf$|\.wav$|\.mp3$|\.mp4$|\.webm$/,
+        test: /\.jpe?g$|\.ico$|\.gif$|\.png$|\.svg$|\.woff$|\.ttf$|\.wav$|\.mp3$|\.mp4$|\.webm$/,
         loader: "file-loader?name=[name].[ext]" // <-- retain original file name
       }
     ]

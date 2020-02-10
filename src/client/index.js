@@ -33,5 +33,5 @@ import "./styles/main.scss";
 // import "./img/realtor-2.jpeg";
 // import "./img/realtor-3.jpeg";
 import "./img/sprite.svg";
-// import "./img/story-1.jpeg";
-// import "./img/story-2.jpeg";
+import "./img/story-1.jpeg";
+import "./img/story-2.jpeg";
